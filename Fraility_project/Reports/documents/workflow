@@ -1,0 +1,14 @@
+Assignment 1: Frailty Data
+                |
+                |______ Frailty Data
+           	   	    |______data_clean
+		                      	|______cleaned_data.csv
+	                	|______data_raw
+			                      |______raw_data.csv
+		                |______reports
+		                      	|______ Question1_workflow
+	                	|______src
+		                      	|______ clean_data.py
+		                      	|______ data_analysis1.ipynb
+	
+
